@@ -1,0 +1,49 @@
+[{
+        "id": 1,
+        "icon": "2.jpg",
+        "titleFirst": "Personal / Executive",
+        "titleLast": "Security",
+        "text": "Male/Female bodyguarding services for individuals and groups, protective driving and secure transport, threat assessment and route planning, discreet or high-profile presence.",
+        "counts": "01"
+    },
+    {
+        "id": 2,
+        "icon": "3.jpg",
+        "titleFirst": "Event",
+        "titleLast": "Security",
+        "text": "Crowd control, access management, VIP and performer protection, guest screening.",
+        "counts": "02"
+    },
+    {
+        "id": 3,
+        "icon": "4.jpg",
+        "titleFirst": "Armed",
+        "titleLast": "Personal Guarding",
+        "text": "Visible deterrence with licensed, trained professionals.",
+        "counts": "03"
+    },
+    {
+        "id": 4,
+        "icon": "5.jpg",
+        "titleFirst": "Mobile",
+        "titleLast": "Patrol Services",
+        "text": "Random or scheduled patrols of commercial, residential, and industrial properties, deterrence of criminal activity through visible presence, quick response to alarms or disturbances, report writing and incident documentation.",
+        "counts": "04"
+    },
+    {
+        "id": 5,
+        "icon": "6.jpg",
+        "titleFirst": "Residential /Corporate",
+        "titleLast": "",
+        "text": "Gatehouse attendants or doormen, temporary coverage during vacations or emergencies, temporary or long-term office/building guards, access control and visitor management.",
+        "counts": "05"
+    },
+    {
+        "id": 6,
+        "icon": "7.jpg",
+        "titleFirst": "Emergency",
+        "titleLast": "SOS Services",
+        "text": "Quick booking and post-paid emergency security services.",
+        "counts": "06"
+    }
+]

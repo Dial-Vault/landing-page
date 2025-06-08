@@ -1,0 +1,28 @@
+[{
+        "id": 1,
+        "accordionId": "headingOne",
+        "title": "Quick SOS Guard Deployment",
+        "subtitle": "Immediate on-demand personal security response",
+        "collapseId": "collapseOne",
+        "expanded": true,
+        "image": "1.png"
+    },
+    {
+        "id": 2,
+        "accordionId": "headingTwo",
+        "title": "Emergency Event Coverage",
+        "subtitle": "Rapid mobilization for events with short notice",
+        "collapseId": "collapseTwo",
+        "expanded": false,
+        "image": "2.png"
+    },
+    {
+        "id": 3,
+        "accordionId": "headingThree",
+        "title": "Mobile Patrol Response",
+        "subtitle": "On-demand patrols for alerts and disturbances",
+        "collapseId": "collapseThree",
+        "expanded": false,
+        "image": "3.png"
+    }
+]

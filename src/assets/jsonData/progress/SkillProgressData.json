@@ -1,0 +1,13 @@
+[{
+        "id": 1,
+        "title": "Skill Progress",
+        "percentage": 85,
+        "description": "Our dedicated team continuously upgrades skills and expertise to stay ahead in security solutions."
+    },
+    {
+        "id": 2,
+        "title": "Data Security",
+        "percentage": 95,
+        "description": "We ensure the highest standards of data protection to safeguard client information with 95% compliance."
+    }
+]

@@ -1,0 +1,15 @@
+[{
+        "id": 1,
+        "title": "Client retention",
+        "initialValue": 70,
+        "increment": 1,
+        "maxValue": 100
+    },
+    {
+        "id": 2,
+        "title": "Successful incident response",
+        "initialValue": 60,
+        "increment": 1,
+        "maxValue": 100
+    }
+]

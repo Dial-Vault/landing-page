@@ -1,0 +1,319 @@
+[{
+        "id": 1,
+        "title": "Personal / Executive Security",
+        "heading": "Trusted Personal & Executive Security Services",
+        "mainImage": "/assets/img/banner/executive-security.jpg",
+        "mainDescription": "Our Personal and Executive Security services offer tailored protection for high-profile individuals, families, and corporate leaders. Whether you need a discreet low-profile presence or a visible security team, our professionally trained male and female bodyguards operate with round-the-clock vigilance. We specialize in threat assessment, protective driving, secure transport logistics, and safeguarding your privacy in every environment — from corporate forums to personal engagements.",
+        "process": [{
+                "title": "Initial Risk & Threat Assessment",
+                "description": "We conduct a comprehensive evaluation of your lifestyle, travel patterns, and exposure levels to create a personalized risk profile."
+            },
+            {
+                "title": "Strategic Route Planning & Coordination",
+                "description": "Optimized travel routes, secure staging areas, and contingency planning ensure safe and efficient movement."
+            },
+            {
+                "title": "Deployment of Trained Security Personnel",
+                "description": "We assign highly trained bodyguards equipped for close protection, emergency response, and situational control at all times."
+            }
+        ],
+        "executives": {
+            "title": "Elite Security Professionals",
+            "description": "Our team includes ex-military and law enforcement specialists, each trained in surveillance detection, tactical response, and client confidentiality. We don’t just protect — we provide assurance."
+        },
+        "executivesImage": "/assets/img/about/bodyguard-team.jpg",
+        "videoId": "HkXT2Sg8OlY",
+        "highlights": {
+            "icon": "/assets/img/icon/4.png",
+            "label": "Professionally Trained Guards"
+        },
+        "growthMultiplier": {
+            "value": "4.5 X",
+            "label": "Client Retention Growth"
+        },
+        "faq": {
+            "intro": "Our Personal / Executive Security services promise professionalism, discretion, and peace of mind.",
+            "questions": [{
+                    "question": "Who requires this service?",
+                    "answer": "This service is ideal for corporate executives, high-net-worth individuals, celebrities, or anyone seeking personal safety and confidentiality.",
+                    "points": ["Business leaders", "Celebrities", "Politicians", "Families"]
+                },
+                {
+                    "question": "Can I choose male or female guards?",
+                    "answer": "Yes, you choose your preference. All guards are equally trained and vetted for discretion and professionalism.",
+                    "points": ["Gender preference available", "Certified security officers", "Fully customizable team"]
+                },
+                {
+                    "question": "What sets your service apart?",
+                    "answer": "Our rigorous background checks, live threat monitoring, and high-level coordination ensure unmatched protective quality.",
+                    "points": ["Real-time threat surveillance", "Rapid incident response", "Full confidentiality"]
+                }
+            ]
+        }
+    },
+    {
+        "id": 2,
+        "title": "Event Security Management",
+        "heading": "Comprehensive Event Security Solutions",
+        "mainImage": "/assets/img/banner/event-security.jpg",
+        "mainDescription": "Our Event Security Management service delivers turnkey security operations for concerts, corporate events, VIP gatherings, and public festivals. We provide access control, crowd management, VIP protection, and rapid response readiness. Whether indoor or outdoor, private or public, we tailor our approach to your scale and risk.",
+        "process": [{
+                "title": "Venue Risk Assessment",
+                "description": "Conducting site analysis, crowd flow forecasting, and threat vulnerability mapping to design a secure perimeter."
+            },
+            {
+                "title": "Operational Security Blueprint",
+                "description": "Deploying trained stewards, access control checkpoints, and rapid mobilization teams for every shift and scenario."
+            },
+            {
+                "title": "Event-Day Monitoring & Coordination",
+                "description": "Command center analytics, incident reporting, and secure communication lines with event partners and emergency services."
+            }
+        ],
+        "executives": {
+            "title": "Seasoned Event Security Leaders",
+            "description": "Our team includes professionals with deep experience in large-scale event security, crowd psychology, and operational readiness."
+        },
+        "executivesImage": "/assets/img/about/event-security-team.jpg",
+        "videoId": "E5V2Q5GMUZQ",
+        "highlights": {
+            "icon": "/assets/img/icon/4.png",
+            "label": "Event Security & Crowd Management"
+        },
+        "growthMultiplier": {
+            "value": "3.2 X",
+            "label": "Repeat Event Contracts"
+        },
+        "faq": {
+            "intro": "Tailored for events of any size — corporate events, concerts, weddings, or public gatherings.",
+            "questions": [{
+                    "question": "How large a crowd can you secure?",
+                    "answer": "We've successfully managed crowd safety for events exceeding 10,000 attendees.",
+                    "points": ["Festivals", "Weddings", "Corporate events"]
+                },
+                {
+                    "question": "Do you also manage VIP and performer security?",
+                    "answer": "Yes, we provide both general crowd control and focused VIP or ARTIST protection teams.",
+                    "points": ["Red carpet access control", "Star escort services", "VVIP lounge security"]
+                },
+                {
+                    "question": "Can you integrate with venue CCTV?",
+                    "answer": "Absolutely. We integrate your existing systems or deploy on-site surveillance setups for live monitoring.",
+                    "points": ["Integrated video feeds", "Live command center support", "Incident escalation tools"]
+                }
+            ]
+        }
+    },
+    {
+        "id": 3,
+        "title": "Armed Personal Guarding",
+        "heading": "Visible, Armed Protective Services",
+        "mainImage": "/assets/img/banner/armed-guarding.jpg",
+        "mainDescription": "Our Armed Personal Guarding service features licensed, vetted, and armed security professionals to provide maximum visible deterrence for executives, transport convoys, and high-threat situations. Ideal when robust protection is needed — we customize protocols to your legal, operational, and privacy requirements.",
+        "process": [{
+                "title": "Threat Level Evaluation",
+                "description": "Detailed threat profiling and liaison with local jurisdictions for clearing armed deployments."
+            },
+            {
+                "title": "Armed Deployment Strategy",
+                "description": "Cover assignments, static posts, or armed convoy escort depending on your requirement."
+            },
+            {
+                "title": "Live Monitoring & Checkpoint Control",
+                "description": "All armed guards report into a centralized command center with surveillance and rapid backup."
+            }
+        ],
+        "executives": {
+            "title": "Highly Credentialed Armed Officers",
+            "description": "Our armed teams include ex-military officers and police veterans with firearms training and tactical response capability."
+        },
+        "executivesImage": "/assets/img/about/armed-guards.jpg",
+        "videoId": "Q7XRCV5aG2I",
+        "highlights": {
+            "icon": "/assets/img/icon/4.png",
+            "label": "Licensed Armed Security"
+        },
+        "growthMultiplier": {
+            "value": "2.8 X",
+            "label": "High-Threat Contracts"
+        },
+        "faq": {
+            "intro": "Armed guarding services designed for high-threat assignments, executive transport, and static posts.",
+            "questions": [{
+                    "question": "Is armed protection legal?",
+                    "answer": "Yes. All armed guards are licensed, regularly trained, and compliant with legal standards.",
+                    "points": ["State licensing approved", "Routine firearm training", "Strict SOP adherence"]
+                },
+                {
+                    "question": "Can help coordinate convoy escorts?",
+                    "answer": "We design secure moving convoys with armed support, route security, and emergency extracts.",
+                    "points": ["Vehicle convoy", "Protective details", "Fallback planning"]
+                },
+                {
+                    "question": "Are guards trained in deadly force protocols?",
+                    "answer": "Yes, they are trained in de-escalation and lethal response only under legal justification.",
+                    "points": ["Body-worn cameras", "Rules of engagement", "Continuous evaluation"]
+                }
+            ]
+        }
+    },
+    {
+        "id": 4,
+        "title": "Mobile Patrol Services",
+        "heading": "Proactive Mobile Patrol for Maximum Security",
+        "mainImage": "/assets/img/banner/mobile-patrol.jpg",
+        "mainDescription": "Our Mobile Patrol Services offer random and scheduled patrols for residential, commercial, or industrial sites. With marked vehicles, trained patrol officers, and alarm response capability, we deter crime before it happens. Each patrol includes checkpoints, perimeter checks, and incident documentation.",
+        "process": [{
+                "title": "Patrol Route Mapping",
+                "description": "Design of patrol schedules, zone coverage, and deterrence planning across your premises."
+            },
+            {
+                "title": "Random & Scheduled Rounds",
+                "description": "Our officers perform timed and surprise patrols to keep potential threats unsettled."
+            },
+            {
+                "title": "Reporting & Monitoring",
+                "description": "All patrol activity is logged and communicated in real-time with post-round reports."
+            }
+        ],
+        "executives": {
+            "title": "Responsive Patrol Team",
+            "description": "Our patrol officers are trained in alarm response, vehicle operations, and community liaison for safety assurance."
+        },
+        "executivesImage": "/assets/img/about/mobile-patrol-team.jpg",
+        "videoId": "TpJYq2azpao",
+        "highlights": {
+            "icon": "/assets/img/icon/4.png",
+            "label": "Mobile Patrol Coverage"
+        },
+        "growthMultiplier": {
+            "value": "3.0 X",
+            "label": "Site Contracts Renewed"
+        },
+        "faq": {
+            "intro": "Mobile patrol to proactively deter threats across various site types.",
+            "questions": [{
+                    "question": "When are patrols performed?",
+                    "answer": "You can schedule daytime, nighttime, or mixed patrols, including weekend and holiday coverage.",
+                    "points": ["24/7 patrol cycles", "Random & scheduled", "Flexible timing"]
+                },
+                {
+                    "question": "Can patrol officers respond to alarm systems?",
+                    "answer": "Yes, we respond to site alarms or disturbance reports immediately and take action as needed.",
+                    "points": ["Alarm dispatch", "Incident logs", "Stakeholder alerts"]
+                },
+                {
+                    "question": "Do patrols include site inspections?",
+                    "answer": "Each patrol includes property checks, security barrier inspections, and incident photographing.",
+                    "points": ["Damage assessments", "Perimeter logs", "Digital record keeping"]
+                }
+            ]
+        }
+    },
+    {
+        "id": 5,
+        "title": "Residential / Corporate Security",
+        "heading": "Dedicated Residential & Corporate Security",
+        "mainImage": "/assets/img/banner/residential-security.jpg",
+        "mainDescription": "Our Residential and Corporate Security services include on‐site security guards, access control, CCTV monitoring coordination, and visitor management. We protect apartments, gated communities, office buildings, and corporate campuses with professional, courteous staff available around the clock.",
+        "process": [{
+                "title": "Guard Deployment & Coverage",
+                "description": "We provide stationed or rotating guards at entries, reception desks, or lobbies based on site layout."
+            },
+            {
+                "title": "Visitor Access & ID Protocols",
+                "description": "Implementation of visitor check-in systems, ID verification, and access logs to control entry."
+            },
+            {
+                "title": "24/7 Patrol & CCTV Coordination",
+                "description": "Regular perimeter checks and CCTV review tied to central alarm monitoring and incident response."
+            }
+        ],
+        "executives": {
+            "title": "Professional Security Personnel",
+            "description": "Our residential and corporate guards are trained in hospitality, conflict de-escalation, and safety response."
+        },
+        "executivesImage": "/assets/img/about/residential-security-team.jpg",
+        "videoId": "D9hV3oxHkQw",
+        "highlights": {
+            "icon": "/assets/img/icon/4.png",
+            "label": "Premium Site Safety"
+        },
+        "growthMultiplier": {
+            "value": "3.7 X",
+            "label": "Renewed Contracts"
+        },
+        "faq": {
+            "intro": "Security designed for residences, gated communities, and corporate premises.",
+            "questions": [{
+                    "question": "Can guards be stationed full-time?",
+                    "answer": "Yes. We provide permanent or part-time guards as per your security requirement.",
+                    "points": ["24x7 desk coverage", "Weekend & holiday rotation", "Shift coverage"]
+                },
+                {
+                    "question": "Will you manage CCTV?",
+                    "answer": "We can oversee camera monitoring or collaborate with your existing system for incident alerts.",
+                    "points": ["Integrated monitoring", "Alert escalation", "Recorded logs"]
+                },
+                {
+                    "question": "How about emergency response?",
+                    "answer": "Our guards are trained to respond to fire incidents, medical emergencies, and disruptions while coordinating with authorities.",
+                    "points": ["First aid readiness", "Fire watch", "Emergency coordination"]
+                }
+            ]
+        }
+    },
+    {
+        "id": 6,
+        "title": "Emergency SOS Services",
+        "heading": "Rapid Response Emergency SOS Protection",
+        "mainImage": "/assets/img/banner/emergency-sos.jpg",
+        "mainDescription": "Our Emergency SOS Services ensure immediate deployment of security professionals during sudden threats or crises. With quick booking and on-call availability, you get expert security responses post-paid — no long-term contracts, just fast, reliable protection when you need it most.",
+        "process": [{
+                "title": "Quick Booking & Alert System",
+                "description": "Request via call, app, or dispatcher — we mobilize within minutes."
+            },
+            {
+                "title": "Rapid Deployment Team",
+                "description": "A trained response unit arrives within the agreed ETA to secure you and stabilize the situation."
+            },
+            {
+                "title": "Post-Incident Follow‑Up",
+                "description": "We provide incident analysis, documentation, and tailored recommendations to prevent recursive threats."
+            }
+        ],
+        "executives": {
+            "title": "Emergency Response Specialists",
+            "description": "Our responders specialize in crisis management, with mobility, decisiveness, and calm under pressure."
+        },
+        "executivesImage": "/assets/img/about/emergency-team.jpg",
+        "videoId": "Y7pFZqM8P5M",
+        "highlights": {
+            "icon": "/assets/img/icon/4.png",
+            "label": "Immediate Security Response"
+        },
+        "growthMultiplier": {
+            "value": "4.0 X",
+            "label": "Emergency Activations"
+        },
+        "faq": {
+            "intro": "Designed for sudden threats, crises, or immediate protection needs.",
+            "questions": [{
+                    "question": "How quickly can you deploy?",
+                    "answer": "Our SOS team is typically dispatched within 15–30 minutes of alert confirmation.",
+                    "points": ["Fast dispatch", "Regional coverage", "Live ETA tracking"]
+                },
+                {
+                    "question": "Is it prepaid or on-demand?",
+                    "answer": "This service is post-paid based, with no monthly minimums or recurring commitments.",
+                    "points": ["Pay-per-use", "No contracts", "Transparent billing"]
+                },
+                {
+                    "question": "What happens after deployment?",
+                    "answer": "We offer full incident reporting, situational advice, and additional protective services if needed.",
+                    "points": ["After-action report", "Consultation", "Further deployment options"]
+                }
+            ]
+        }
+    }
+]

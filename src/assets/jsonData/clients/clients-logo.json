@@ -1,0 +1,55 @@
+[{
+        "id": 1,
+        "name": "CMS",
+        "image": "/assets/img/clients/7.png",
+        "alt": "CMS Client Logo"
+    },
+    {
+        "id": 2,
+        "name": "CSDirekt",
+        "image": "/assets/img/clients/csdirekt.png",
+        "alt": "CSDirekt Client Logo"
+    },
+    {
+        "id": 3,
+        "name": "Suvidha",
+        "image": "/assets/img/clients/3.png",
+        "alt": "Suvidha Client Logo"
+    },
+    {
+        "id": 4,
+        "name": "Imperium",
+        "image": "/assets/img/clients/6.png",
+        "alt": "Imperium Client Logo"
+    },
+    {
+        "id": 5,
+        "name": "Lemon Tree",
+        "image": "/assets/img/clients/4.png",
+        "alt": "Lemon Tree Client Logo"
+    },
+    {
+        "id": 6,
+        "name": "Kalyan",
+        "image": "/assets/img/clients/5.png",
+        "alt": "Kalyan Client Logo"
+    },
+    {
+        "id": 7,
+        "name": "Sunburn",
+        "image": "/assets/img/clients/sunburn (2).png",
+        "alt": "Sunburn Client Logo"
+    },
+    {
+        "id": 8,
+        "name": "Midtown",
+        "image": "/assets/img/clients/2.png",
+        "alt": "Midtown Client Logo"
+    },
+    {
+        "id": 9,
+        "name": "Hyundai",
+        "image": "/assets/img/clients/hyundai.png",
+        "alt": "Hyundai Client Logo"
+    }
+]
