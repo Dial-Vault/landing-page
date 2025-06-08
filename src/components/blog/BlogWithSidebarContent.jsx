@@ -90,13 +90,13 @@ const BlogWithSidebarContent = () => {
 
                             <div className="sidebar col-xl-4 col-lg-5 col-md-12 mt-md-50 mt-xs-50">
                                 <aside>
-                                    <SearchWidget />
+                                    {/* <SearchWidget /> */}
                                     <RecentPostsWidget />
-                                    <CategoryWidget />
-                                    <GalleryWidget />
-                                    <ArchiveWidget />
+                                    {/* <CategoryWidget /> */}
+                                    {/* <GalleryWidget /> */}
+                                    {/* <ArchiveWidget /> */}
                                     <FollowWidget />
-                                    <TagsWidget />
+                                    {/* <TagsWidget /> */}
                                 </aside>
                             </div>
                         </div>

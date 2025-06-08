@@ -10148,6 +10148,9 @@ ul.link-list li a {
 /* Mobile Layout: 320px. */
 
 @media only screen and (max-width: 767px) {
+    .contact-form-style-one textarea {
+        min-height: 80px;
+    }
     .blog-area .site-heading .title {
         font-size: 36px;
     }

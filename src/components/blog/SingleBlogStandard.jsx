@@ -8,7 +8,7 @@ const SingleBlogStandard = ({ blog }) => {
             <div className="item">
                 <div className="thumb">
                     <Link to={`/blog/${slug}`}>
-                        <img src={image} alt="Image Not Found" />
+                        <img src={image} style={{width:'100%'}} alt="Image Not Found" />
                     </Link>
                 </div>
                 <div className="info">

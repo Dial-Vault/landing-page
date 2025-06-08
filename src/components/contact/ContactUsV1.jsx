@@ -1,13 +1,17 @@
-import { useState } from 'react';
-import { toast } from 'react-toastify';
-import { db } from '../../firebase/firebaseConfig'; // ensure firebase is configured and exported from this path
-import { collection, addDoc, Timestamp } from 'firebase/firestore';
+import { useState } from "react";
+import { toast } from "react-toastify";
+import { db } from "../../firebase/firebaseConfig"; // ensure firebase is configured and exported from this path
+import { collection, addDoc, Timestamp } from "firebase/firestore";
 
 import illustration14 from "/assets/img/illustration/14.png";
-import Animation from '../animation/Animation';
+import Animation from "../animation/Animation";
 
 const ContactUsV1 = () => {
-  const [formData, setFormData] = useState({ name: '', email: '', message: '' });
+  const [formData, setFormData] = useState({
+    name: "",
+    email: "",
+    message: "",
+  });
   const [loading, setLoading] = useState(false);
 
   const handleChange = (e) => {
@@ -20,10 +24,10 @@ const ContactUsV1 = () => {
     try {
       await addDoc(collection(db, "contact_messages"), {
         ...formData,
-        createdAt: Timestamp.now()
+        createdAt: Timestamp.now(),
       });
       toast.success("Message sent successfully!");
-      setFormData({ name: '', email: '', message: '' });
+      setFormData({ name: "", email: "", message: "" });
     } catch (err) {
       toast.error("Failed to send message. Please try again.");
     }
@@ -42,10 +46,15 @@ const ContactUsV1 = () => {
               <h4 className="sub-title">Have a Security Concern?</h4>
               <h2>Reach DylVault</h2>
               <p>
-                Whether it's urgent deployment, event support, or tailored security solutions, our team is ready to assist you 24/7. Let us know your needs.
+                Whether it's urgent deployment, event support, or tailored
+                security solutions, our team is ready to assist you 24/7. Let us
+                know your needs.
               </p>
               <ul>
-                <Animation className='animate__animated animate__fadeInUp' delay='100ms'>
+                <Animation
+                  className="animate__animated animate__fadeInUp"
+                  delay="100ms"
+                >
                   <li>
                     <div className="icon">
                       <i className="fas fa-phone-alt" />
@@ -57,7 +66,10 @@ const ContactUsV1 = () => {
                   </li>
                 </Animation>
 
-                <Animation className='animate__animated animate__fadeInUp' delay='300ms'>
+                <Animation
+                  className="animate__animated animate__fadeInUp"
+                  delay="300ms"
+                >
                   <li>
                     <div className="icon">
                       <i className="fas fa-map-marker-alt" />
@@ -65,13 +77,17 @@ const ContactUsV1 = () => {
                     <div className="info">
                       <h5 className="title">Head Office</h5>
                       <p>
-                        DylVault HQ, Sector 45,<br /> Gurgaon, Haryana, India
+                        DylVault HQ, Sector 45,
+                        <br /> Gurgaon, Haryana, India
                       </p>
                     </div>
                   </li>
                 </Animation>
 
-                <Animation className='animate__animated animate__fadeInUp' delay='500ms'>
+                <Animation
+                  className="animate__animated animate__fadeInUp"
+                  delay="500ms"
+                >
                   <li>
                     <div className="icon">
                       <i className="fas fa-envelope-open-text" />
@@ -79,9 +95,13 @@ const ContactUsV1 = () => {
                     <div className="info">
                       <h5 className="title">Email Us</h5>
 
-                      <a href="mailto:contact@dylvault.com">support@dylvault.com</a>
-                      <br/>
-                      <a href="mailto:contact@dylvault.com">team@dylvault.com</a>
+                      <a href="mailto:contact@dylvault.com">
+                        support@dylvault.com
+                      </a>
+                      <br />
+                      <a href="mailto:contact@dylvault.com">
+                        team@dylvault.com
+                      </a>
                     </div>
                   </li>
                 </Animation>
@@ -122,11 +142,15 @@ const ContactUsV1 = () => {
                     onChange={handleChange}
                     placeholder="Your Message"
                     className="form-control"
-                    rows="5"
+                    rows="3"
                     required
                   ></textarea>
                 </div>
-                <button type="submit" className="btn btn-md btn-theme" disabled={loading}>
+                <button
+                  type="submit"
+                  className="btn btn-md btn-theme"
+                  disabled={loading}
+                >
                   {loading ? "Sending..." : "Send Message"}
                 </button>
               </form>
