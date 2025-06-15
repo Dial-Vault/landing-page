@@ -49,7 +49,7 @@ const ProjectV1 = () => {
                                         <li key={index}>{feature}</li>
                                     ))}
                                 </ul>
-                                <Link className="btn-style-two" to="/project">
+                                <Link className="btn-style-two" to="/projects">
                                     <i className="fas fa-arrow-right" /> {BUTTON_LABEL}
                                 </Link>
                             </div>
